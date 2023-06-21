@@ -42,6 +42,8 @@ public class RecipeService : IRecipeService
         
         existingRecipe.Title = recipe.Title;
         existingRecipe.Description = recipe.Description;
+        existingRecipe.PreparationTime = recipe.PreparationTime;
+        existingRecipe.Servings = recipe.Servings;
         
         try {
             _recipeRepository.Update(existingRecipe);
@@ -52,9 +54,9 @@ public class RecipeService : IRecipeService
             return new RecipeResponse($"An error occurred while updating the Recipe: {ex.Message}");
         }
     }
-    public async Task<RecipeResponse> DeleteAsync(int id)
+    public async Task<RecipeResponse> DeleteAsync(int recipeId)
     {
-        var existingRecipe = await _recipeRepository.FindByIdAsync(id);
+        var existingRecipe = await _recipeRepository.FindByIdAsync(recipeId);
         
         if (existingRecipe == null)
             return new RecipeResponse("Recipe not found.");
