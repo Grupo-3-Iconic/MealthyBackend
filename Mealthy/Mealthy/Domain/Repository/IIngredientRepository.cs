@@ -8,7 +8,7 @@ public interface IIngredientRepository
     Task AddAsync(Ingredient ingredient);
     Task<Ingredient> FindByIdAsync(int id);
     Task<Ingredient> FindByNameAsync(string name);
-    Task<IEnumerable<Ingredient>> FindByRecipeIdAsync(int recipeId);
+    Task<IEnumerable<Ingredient>> FindByRecipeIdAsync(int id);
     void Update(Ingredient ingredient);
     void Remove(Ingredient ingredient);
 }
