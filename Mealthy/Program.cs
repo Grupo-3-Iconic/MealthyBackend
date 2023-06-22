@@ -37,6 +37,8 @@ builder.Services.AddScoped<IIngredientRepository, IngredientRepository>();
 builder.Services.AddScoped<IIngredientService, IngredientService>();
 builder.Services.AddScoped<IStepRepository, StepRepository>();
 builder.Services.AddScoped<IStepService, StepService>();
+builder.Services.AddScoped<ISupplyRepository, SupplyRepository>();
+builder.Services.AddScoped<ISupplyService, SupplyService>();
 
 //AutoMapper Configuration
 builder.Services.AddAutoMapper(typeof(ModelToResourceProfile), typeof(ResourceToModelProfile));
