@@ -1,4 +1,4 @@
-﻿using Mealthy.Mealthy.Domain.Repository;
+﻿using Mealthy.Mealthy.Domain.Repositories;
 using Mealthy.Shared.Persistence.Contexts;
 
 namespace Mealthy.Shared.Persistence.Repositories;

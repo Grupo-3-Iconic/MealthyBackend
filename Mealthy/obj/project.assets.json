@@ -6862,24 +6862,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\Lol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\Mealthy.csproj",
+      "projectUniqueName": "C:\\Users\\Lol\\Documents\\CICLO 2023-1\\APLICACIONES WEB - PRESENCIAL\\BACKEND-ACTUALIZADO\\MealthyBackend\\Mealthy\\Mealthy.csproj",
       "projectName": "Mealthy",
-      "projectPath": "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\Mealthy.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\obj\\",
+      "projectPath": "C:\\Users\\Lol\\Documents\\CICLO 2023-1\\APLICACIONES WEB - PRESENCIAL\\BACKEND-ACTUALIZADO\\MealthyBackend\\Mealthy\\Mealthy.csproj",
+      "packagesPath": "C:\\Users\\Lol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lol\\Documents\\CICLO 2023-1\\APLICACIONES WEB - PRESENCIAL\\BACKEND-ACTUALIZADO\\MealthyBackend\\Mealthy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
