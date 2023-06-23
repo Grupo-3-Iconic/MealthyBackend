@@ -6862,24 +6862,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\Vega\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\Mealthy.csproj",
+      "projectUniqueName": "c:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\Mealthy.csproj",
       "projectName": "Mealthy",
-      "projectPath": "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\Mealthy.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\obj\\",
+      "projectPath": "c:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\Mealthy.csproj",
+      "packagesPath": "C:\\Users\\Vega\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Vega\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6950,7 +6951,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
