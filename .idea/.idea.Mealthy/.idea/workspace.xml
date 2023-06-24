@@ -9,48 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f26acf06-7f2b-46d3-b06f-280d0737a1fe" name="Changes" comment="Program impl">
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Controllers/ProductController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Controllers/StoreController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Model/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Repository/IProductRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/Communication/ProductResponse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/Communication/StoreResponse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/IProductService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/IStoreService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Persistence/Repositories/ProductRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/ProductResource.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/SaveProductResource.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/SaveStoreResource.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/StoreResource.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Services/ProductService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Services/StoreService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mealthy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mealthy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Model/Store.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Model/Store.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Repository/IStoreRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Repository/IStoreRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Persistence/Repositories/StoreRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Persistence/Repositories/StoreRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="f26acf06-7f2b-46d3-b06f-280d0737a1fe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/Mealthy/Resources/IngredientResource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -145,7 +112,7 @@
       <workItem from="1686374040379" duration="6655000" />
       <workItem from="1686380819418" duration="11289000" />
       <workItem from="1687561012630" duration="1339000" />
-      <workItem from="1687572220801" duration="7396000" />
+      <workItem from="1687572220801" duration="8999000" />
     </task>
     <task id="LOCAL-00001" summary="Default files">
       <created>1686374705157</created>
@@ -266,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686412465814</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add Store to Backend">
+      <created>1687582231423</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1687582231423</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add Store and Product">
+      <created>1687582273121</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1687582273121</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +284,8 @@
     <MESSAGE value="Repositories (CRUD ?)" />
     <MESSAGE value="Relocation of files" />
     <MESSAGE value="Program impl" />
-    <option name="LAST_COMMIT_MESSAGE" value="Program impl" />
+    <MESSAGE value="Add Store to Backend" />
+    <MESSAGE value="Add Store and Product" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Store and Product" />
   </component>
 </project>
