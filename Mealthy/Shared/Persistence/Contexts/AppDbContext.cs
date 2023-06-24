@@ -1,4 +1,5 @@
 ﻿using Mealthy.Mealthy.Domain.Model;
+using Mealthy.Mealthy.Domain.Models;
 using Mealthy.Mealthy.Shared.Extensions;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +14,10 @@ public class AppDbContext : DbContext
     public DbSet<Step> Steps { get; set; }
     public DbSet<Recipe> Recipes { get; set; }
     
+    public DbSet<Product>Products { get; set; }
+    
+    public DbSet<Store> Stores { get; set; }
+
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);
@@ -38,6 +43,25 @@ public class AppDbContext : DbContext
         builder.Entity<Step>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
         builder.Entity<Step>().Property(p => p.Description).IsRequired().HasMaxLength(100);
         
+        builder.Entity<Product>().ToTable("Products");
+        builder.Entity<Product>().HasKey(p => p.Id);
+        builder.Entity<Product>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd(); 
+        builder.Entity<Product>().Property(p => p.Name).IsRequired().HasMaxLength(70); 
+        builder.Entity<Product>().Property(p => p.Category).IsRequired().HasMaxLength(70); 
+        builder.Entity<Product>().Property(p => p.Price).IsRequired();
+        builder.Entity<Product>().Property(p => p.Unit).IsRequired().HasMaxLength(70); 
+        builder.Entity<Product>().Property(p => p.Quantity).IsRequired();
+        builder.Entity<Product>().Property(p => p.photoUrl).IsRequired().HasMaxLength(200);
+
+        builder.Entity<Store>().ToTable("Stores");
+        builder.Entity<Store>().HasKey(s => s.Id);
+        builder.Entity<Store>().Property(s=>s.Id).IsRequired().ValueGeneratedOnAdd(); 
+        builder.Entity<Store>().Property(s=>s.name).IsRequired().HasMaxLength(70); 
+        builder.Entity<Store>().Property(s=>s.description).IsRequired().HasMaxLength(70); 
+        builder.Entity<Store>().Property(s=>s.photoUrl).IsRequired();
+        builder.Entity<Store>().Ignore(s => s.ProductsId).Property(s => s.ProductsIdString).HasColumnName("ProductsId");
+
+
         //Naming convention
         builder.UseSnakeCaseNamingConvention();
     }

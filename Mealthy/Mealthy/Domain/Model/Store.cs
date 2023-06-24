@@ -1,4 +1,7 @@
-﻿namespace Mealthy.Mealthy.Domain.Model;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using Mealthy.Mealthy.Domain.Models;
+
+namespace Mealthy.Mealthy.Domain.Model;
 
 public class Store
 {
@@ -8,6 +11,14 @@ public class Store
     public string photoUrl { get; set; }
 
     //Lista de IDs de los productos
-    private IList<int> products { get; set; }
+    public IList<int> ProductsId { get; set; }
+
+    [NotMapped]
+    public string ProductsIdString
+    {
+        get{return string.Join(",", ProductsId);}
+        set { ProductsId = value.Split(',').Select(int.Parse).ToList(); }
+    }
+
 
 }
