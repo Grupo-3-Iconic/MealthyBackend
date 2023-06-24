@@ -1,5 +1,7 @@
+using Mealthy.Security.Domain.Models;
+
 namespace Mealthy.Security.Domain.Repositories;
-public intereface IUserRepository
+public interface IUserRepository
 {
     Task<IEnumerable<User>> ListAsync();
     Task AddAsync (User user );

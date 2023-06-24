@@ -1,5 +1,8 @@
+using Mealthy.Security.Domain.Models;
 using Mealthy.Security.Domain.Repositories;
-using Mealthy.Security.Shared.Persistence.Repositories;
+using Mealthy.Shared.Persistence.Contexts;
+using Mealthy.Shared.Persistence.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace Mealthy.Security.Persistence.Repositories;
 
@@ -11,36 +14,36 @@ public class UserRepository :BaseRepository, IUserRepository
     }
     public async Task<IEnumerable<User>> ListAsync()
     {
-        return await _context.Users.ToListAsync();
+        return await _context.users.ToListAsync();
     }
     public async Task AddAsync(User user)
     {
-        await _context.Users.AddAsync(user);
+        await _context.users.AddAsync(user);
     }
     public async Task<User> FindByIdAsync(int id)
     {
-        return await _context.Users.FindAsync(id);
+        return await _context.users.FindAsync(id);
     }
     public async Task<User> FindByUsernameAsync(string username)
     {
-        return await _context.Users.SingleOrDefaultAsync 
+        return await _context.users.SingleOrDefaultAsync 
         (x=> x.Username==username);
     }
     public bool ExistsByUsername(string username)
     {
-        return _context.Users.Any(x=> x.Username==username);
+        return _context.users.Any(x=> x.Username==username);
     }
     public User FindById(int id)
     {
-        return _context.Users.Find(id);
+        return _context.users.Find(id);
     }
     public void Update(User user)
     {
-        _context.Users.Update(user);
+        _context.users.Update(user);
     }
     public void Remove(User user)
     {
-        _context.Users.Remove(user);
+        _context.users.Remove(user);
     }
 
     

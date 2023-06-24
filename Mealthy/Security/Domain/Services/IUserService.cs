@@ -2,7 +2,7 @@ using Mealthy.Security.Domain.Models;
 using Mealthy.Security.Domain.Services.Communication;
 
 namespace Mealthy.Security.Domain.Services;
-public interface IUservice
+public interface IUserservice
 {
     Task<AuthenticateResponse> Authenticate (AuthenticateRequest model);
     Task<IEnumerable<User>> ListAsync();
