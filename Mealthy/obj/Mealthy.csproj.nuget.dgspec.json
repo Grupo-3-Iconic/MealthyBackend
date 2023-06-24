@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\Mealthy.csproj": {}
+    "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\Mealthy.csproj": {
+    "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\Mealthy.csproj",
+        "projectUniqueName": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj",
         "projectName": "Mealthy",
-        "projectPath": "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\Mealthy.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD\\VI  CICLO\\Aplicaciones Web\\Code\\Code - Backend\\Mealthy\\Mealthy\\obj\\",
+        "projectPath": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj",
+        "packagesPath": "C:\\Users\\JULIO.LAPTOP-KE144AIM\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\JULIO.LAPTOP-KE144AIM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
