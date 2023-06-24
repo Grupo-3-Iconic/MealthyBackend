@@ -1,6 +1,14 @@
-﻿namespace Mealthy.Mealthy.Mapping;
+﻿using AutoMapper;
+using Mealthy.Mealthy.Domain.Models;
+using Mealthy.Mealthy.Resource;
 
-public class ResourceToModelProfile
+namespace Mealthy.Mealthy.Mapping;
+
+public class ResourceToModelProfile:Profile
 {
+    public ResourceToModelProfile()
+    {
+        CreateMap<SaveProductResource, Product>();
+    }
     
 }
