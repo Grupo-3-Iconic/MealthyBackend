@@ -122,3 +122,12 @@ D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7
 D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.pdb
 D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.genruntimeconfig.cache
 D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\ref\Mealthy.dll
+D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll

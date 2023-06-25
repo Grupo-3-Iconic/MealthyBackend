@@ -10,7 +10,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f26acf06-7f2b-46d3-b06f-280d0737a1fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Controllers/MarketController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Model/Market.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Repository/IMarketRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/Communication/MarketResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/IMarketService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Persistence/Repositories/MarketRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/MarketResource.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/SaveMarketResource.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Services/MarketService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mealthy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mealthy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Controllers/ProductController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Controllers/StoreController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Model/Product.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Model/Store.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Repository/IProductRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Repository/IStoreRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/Communication/ProductResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/Communication/StoreResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/IProductService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/IStoreService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Mapping/ModelToResourceProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Mapping/ModelToResourceProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Mapping/ResourceToModelProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Mapping/ResourceToModelProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Persistence/Repositories/ProductRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Persistence/Repositories/StoreRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/ProductResource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/SaveProductResource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/SaveStoreResource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/StoreResource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Services/ProductService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Services/StoreService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/delete.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +112,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Mealthy: http">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Mealthy: https">
     <configuration name="Mealthy: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Mealthy/Mealthy.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net7.0" />
@@ -116,6 +174,7 @@
       <workItem from="1687561012630" duration="1339000" />
       <workItem from="1687572220801" duration="8999000" />
       <workItem from="1687583234324" duration="1955000" />
+      <workItem from="1687705869890" duration="14101000" />
     </task>
     <task id="LOCAL-00001" summary="Default files">
       <created>1686374705157</created>

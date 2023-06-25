@@ -11,5 +11,6 @@ public class ModelToResourceProfile : Profile
         CreateMap<Recipe, RecipeResource>();
         CreateMap<Ingredient, IngredientResource>();
         CreateMap<Step, StepResource>();
+        CreateMap<Market, MarketResource>();
     }
 }

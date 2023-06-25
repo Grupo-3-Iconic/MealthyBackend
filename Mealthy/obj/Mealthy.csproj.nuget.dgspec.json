@@ -50,19 +50,19 @@
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[8.0.0-preview.3.23174.2, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[8.0.0-preview.3.23174.2, )"
             },
             "Microsoft.EntityFrameworkCore.Relational.Design": {
               "target": "Package",
-              "version": "[1.1.6, )"
+              "version": "[2.0.0-preview1-final, )"
             },
             "MySql.EntityFrameworkCore": {
               "target": "Package",

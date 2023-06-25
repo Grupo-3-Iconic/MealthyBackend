@@ -1,7 +1,5 @@
-using Mealthy.Mealthy.Domain.Repositories;
 using Mealthy.Mealthy.Domain.Repository;
 using Mealthy.Mealthy.Domain.Service;
-using Mealthy.Mealthy.Domain.Services;
 using Mealthy.Mealthy.Mapping;
 using Mealthy.Mealthy.Persistence.Repositories;
 using Mealthy.Mealthy.Services;
@@ -34,9 +32,11 @@ builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
 // Dependency Injection Configuration
 
-builder.Services.AddScoped<IStoreRepository, StoreRepository>();
-builder.Services.AddScoped<IStoreService, StoreService>();
+builder.Services.AddScoped<IMarketRepository, MarketRepository>();
+builder.Services.AddScoped<IMarketService, MarketService>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+// 
 
 // AutoMapper Configuration
 

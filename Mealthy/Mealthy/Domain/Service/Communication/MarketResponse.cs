@@ -3,13 +3,14 @@ using Mealthy.Mealthy.Shared.Domain.Services.Communication;
 
 namespace Mealthy.Mealthy.Domain.Service.Communication;
 
-public class StoreResponse : BaseResponse<Store>
+public class MarketResponse : BaseResponse<Market>
 {
-    public StoreResponse(Store resource) : base(resource)
+    public MarketResponse(Market market) : base(market)
     {
     }
 
-    public StoreResponse(string message) : base(message)
+    public MarketResponse(string message) : base(message)
     {
     }
+    
 }
