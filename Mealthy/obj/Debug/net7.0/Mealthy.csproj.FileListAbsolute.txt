@@ -124,3 +124,11 @@ C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\refint\Me
 C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.pdb
 C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.genruntimeconfig.cache
 C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\ref\Mealthy.dll
+C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

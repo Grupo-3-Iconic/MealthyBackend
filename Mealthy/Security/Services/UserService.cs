@@ -1,6 +1,7 @@
 
 using AutoMapper;
 using Mealthy.Mealthy.Domain.Repository;
+using Mealthy.Security.Authorization.Handlers.Interfaces;
 using Mealthy.Security.Domain.Models;
 using Mealthy.Security.Domain.Repositories;
 using Mealthy.Security.Domain.Services;
@@ -15,13 +16,15 @@ public class UserService : IUserservice
     private readonly IUserRepository _userRepository;
     private readonly IUnitOfWork _unitOfWork;
 
+    private readonly IJwtHandler _jwtHandler;
     private readonly IMapper _mapper;
 
-    public UserService(IUserRepository userRepository, IUnitOfWork unitOfWork, IMapper mapper)
+    public UserService(IUserRepository userRepository, IUnitOfWork unitOfWork, IMapper mapper, IJwtHandler jwtHandler)
     {
         _userRepository = userRepository;
         _unitOfWork = unitOfWork;
         _mapper = mapper;
+        _jwtHandler = jwtHandler;
     }
 
     public async Task<IEnumerable<User>> ListAsync()
@@ -36,9 +39,37 @@ public class UserService : IUserservice
         return user;
     }
 
-    public Task<AuthenticateResponse> Authenticate(AuthenticateRequest model)
+    public async Task<User> GetByIdAndRole(int id, string role)
     {
-        throw new NotImplementedException();
+        var user = await _userRepository.FindByIdAndRoleAsync(id, role);
+        if (user == null) throw new KeyNotFoundException("User Not Found");
+        return user;
+
+    }
+    public async Task<AuthenticateResponse> Authenticate(AuthenticateRequest request)
+    {
+        var user = await _userRepository.FindByUsernameAsync(request.Username);
+        Console.WriteLine($"Request: {request.Username},{request.Password}");
+        Console.WriteLine($"User: {user.Id}, {user.FirstName},{user.LastName},{user.Username},{user.PasswordHash}");
+        //validate
+        if (user == null || !BCryptNet.Verify(request.Password, user.PasswordHash))
+        {
+            Console.WriteLine("Authentication Error");
+            throw new AppException("Username or password is incorrect");
+        }
+        
+        Console.WriteLine("Authentication successful. About to generate token");
+        
+        // authentication successful
+        var response = _mapper.Map<AuthenticateResponse>(user);
+        Console.WriteLine($"Response: {response.Id},{response.LastName}" +
+                          $",{response.Email},{response.Username},{response.FirstName}{response.Genre}" +
+                          $",{response.Email},{response.Phone},{response.Role},{response.Birthday}");
+        
+        response.Token = _jwtHandler.GenerateToken(user);
+        Console.WriteLine($"Generated token is {response.Token}");
+        return response;
+
     }
 
     public async Task RegisterAsync(RegisterRequest request)
@@ -72,6 +103,7 @@ public class UserService : IUserservice
         if (user == null) throw new KeyNotFoundException("User not found");
         return user;
     }
+
 
     public async Task UpdateAsync(int id, UpdateRequest request)
     {

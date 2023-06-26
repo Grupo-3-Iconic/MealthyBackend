@@ -37,6 +37,12 @@ public class UserRepository :BaseRepository, IUserRepository
     {
         return _context.users.Find(id);
     }
+
+    public async Task<User> FindByIdAndRoleAsync(int id, string role)
+    {
+        return await _context.users.SingleOrDefaultAsync(x => x.Id == id && x.Role == role);
+    }
+
     public void Update(User user)
     {
         _context.users.Update(user);

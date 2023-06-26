@@ -57,6 +57,14 @@ public class UserController : ControllerBase
         return Ok(resource);
     }
 
+    [HttpGet("/{id}/{role}")]
+    public async Task<IActionResult> GetByIdAndRole(int id, string role)
+    {
+        var user = await _userService.GetByIdAndRole(id, role);
+        var resource = _mapper.Map<User, UserResource>(user);
+        return Ok(resource);
+    }
+    
     [HttpPut("{id}")]
     public async Task<IActionResult> Update(int id, UpdateRequest request)
     {
@@ -64,6 +72,7 @@ public class UserController : ControllerBase
         return Ok(new { message = "User updated successfully" });
     }
 
+    
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(int id)
     {
