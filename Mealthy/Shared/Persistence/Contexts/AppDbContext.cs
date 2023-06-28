@@ -9,7 +9,7 @@ namespace Mealthy.Shared.Persistence.Contexts;
 public class AppDbContext : DbContext
 {
     public AppDbContext(DbContextOptions options) : base(options) { }
-
+    public DbSet<Product>Products { get; set; }
     public DbSet<Ingredient> Ingredients { get; set; }
     public DbSet<Step> Steps { get; set; }
     public DbSet<Recipe> Recipes { get; set; }
@@ -64,6 +64,19 @@ public class AppDbContext : DbContext
         builder.Entity<User>().Property(p=>p.Email).IsRequired();
         builder.Entity<User>().Property(p=>p.Phone).IsRequired();
         builder.Entity<User>().Property(p=>p.Role).IsRequired();
+        
+        //Products
+        base.OnModelCreating(builder);
+        builder.Entity<Product>().ToTable("Products");
+        builder.Entity<Product>().HasKey(p => p.Id);
+        builder.Entity<Product>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd(); 
+        builder.Entity<Product>().Property(p => p.Name).IsRequired().HasMaxLength(70); 
+        builder.Entity<Product>().Property(p => p.Category).IsRequired().HasMaxLength(70); 
+        builder.Entity<Product>().Property(p => p.Price).IsRequired();
+        builder.Entity<Product>().Property(p => p.Unit).IsRequired().HasMaxLength(70); 
+        builder.Entity<Product>().Property(p => p.Quantity).IsRequired();
+        builder.Entity<Product>().Property(p => p.photoUrl).IsRequired().HasMaxLength(200); 
+
         
         //Naming convention
         builder.UseSnakeCaseNamingConvention();
