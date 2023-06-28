@@ -9,4 +9,5 @@ public class ProductResource
     public string Unit { get; set; }
     public int Quantity { get; set; }
     public string photoUrl { get; set; }
+    public int storeId { get; set; }
 }

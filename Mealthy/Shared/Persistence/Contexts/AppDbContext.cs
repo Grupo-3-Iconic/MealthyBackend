@@ -77,6 +77,7 @@ public class AppDbContext : DbContext
         builder.Entity<Product>().Property(p => p.Price).IsRequired();
         builder.Entity<Product>().Property(p => p.Unit).IsRequired().HasMaxLength(70); 
         builder.Entity<Product>().Property(p => p.Quantity).IsRequired();
+        builder.Entity<Product>().Property(p => p.storeId).IsRequired();
         builder.Entity<Product>().Property(p => p.photoUrl).IsRequired().HasMaxLength(200); 
         
         
@@ -85,13 +86,6 @@ public class AppDbContext : DbContext
         builder.Entity<Market>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
         builder.Entity<Market>().Property(p => p.storeName).IsRequired().HasMaxLength(50);
         builder.Entity<Market>().Property(p => p.description).IsRequired().HasMaxLength(200);
-        builder.Entity<Market>().Property(p => p.firstName).IsRequired().HasMaxLength(75);
-        builder.Entity<Market>().Property(p => p.lastName).IsRequired().HasMaxLength(75);
-        builder.Entity<Market>().Property(p => p.ruc).IsRequired().HasMaxLength(11);
-        builder.Entity<Market>().Property(p => p.email).IsRequired().HasMaxLength(50);
-        builder.Entity<Market>().Property(p => p.password).IsRequired().HasMaxLength(45);
-        builder.Entity<Market>().Property(p => p.location).IsRequired().HasMaxLength(75);
-        builder.Entity<Market>().Property(p => p.phone).IsRequired().HasMaxLength(9);
         builder.Entity<Market>().Property(p => p.photo).IsRequired().HasMaxLength(600);
         
         //Naming convention
