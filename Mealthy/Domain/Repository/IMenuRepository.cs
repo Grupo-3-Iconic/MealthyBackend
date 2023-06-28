@@ -7,7 +7,7 @@ public interface IMenuRepository
     Task<IEnumerable<Menu>> ListAsync();
     Task AddAsync(Menu menu);
     Task<Menu> FindByIdAsync(int id);
-    Task<Menu> FindByTitleAsync(string title);
+    Task<Menu> FindByDayAsync(string day);
     void Update(Menu menu);
     void Remove(Menu menu);
 }

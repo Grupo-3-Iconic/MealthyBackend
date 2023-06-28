@@ -25,10 +25,10 @@ public class MenuService : IMenuService
     {
         try
         {
-            var existingMenu = await _menuRepository.FindByTitleAsync(menu.Title);
+            var existingMenu = await _menuRepository.FindByDayAsync(menu.Day);
             
             if (existingMenu != null)
-                return new MenuResponse("Ya existe un menu con el mismo nombre");
+                return new MenuResponse("Ya existe un menu en este día");
 
             await _menuRepository.AddAsync(menu);
             await _unitOfWork.CompleteAsync();
@@ -46,8 +46,8 @@ public class MenuService : IMenuService
         
         if (existingMenu == null)
             return new MenuResponse("Menu no encontrado.");
-        
-        existingMenu.Description = menu.Description;
+
+        existingMenu.RecipeId = menu.RecipeId;
         
         try {
             _menuRepository.Update(existingMenu);

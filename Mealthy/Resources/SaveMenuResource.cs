@@ -4,10 +4,10 @@ namespace Mealthy.Mealthy.Resources;
 
 public class SaveMenuResource
 {
-    [Required(ErrorMessage = "El título es requerido.")]
+    [Required(ErrorMessage = "El día es requerido.")]
     [MaxLength(30)]
-    public string Title { get; set; }
-    [Required(ErrorMessage = "La descripción es requerida.")]
-    [MaxLength(100)]
-    public string Description { get; set; }
+    public string Day { get; set; }
+    [Required(ErrorMessage = "La comida es requerida.")]
+    [MaxLength(30)]
+    public string Meal { get; set; }
 }

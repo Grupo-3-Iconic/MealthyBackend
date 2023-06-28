@@ -12,7 +12,9 @@ public class AppDbContext : DbContext
     public DbSet<Ingredient> Ingredients { get; set; }
     public DbSet<Step> Steps { get; set; }
     public DbSet<Recipe> Recipes { get; set; }
-    
+    public DbSet<Supply> Supplies { get; set; }
+    public DbSet<Menu> Menus { get; set; }
+
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);

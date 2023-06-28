@@ -26,9 +26,9 @@ public class MenuRepository : BaseRepository, IMenuRepository
         return await _context.Menus.FindAsync(id);
     }
 
-    public async Task<Menu> FindByTitleAsync(string title)
+    public async Task<Menu> FindByDayAsync(string day)
     {
-        return await _context.Menus.FirstOrDefaultAsync(r => r.Title == title);
+        return await _context.Menus.FirstOrDefaultAsync(r => r.Day == day);
     }
 
     public void Update(Menu menu)

@@ -3,8 +3,8 @@
 public class Menu
 {
     public int Id { get; set; }
-    public string Title { get; set; }
-    public string Description { get; set; }
+    public string Day { get; set; }
+    public string Meal { get; set; }
     //Relationships
-    public IList<Recipe> Recipes { get; set; } = new List<Recipe>();
+    public int RecipeId { get; set; }
 }
