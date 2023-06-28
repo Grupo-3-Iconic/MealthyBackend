@@ -20,11 +20,22 @@ public class StepRepository : BaseRepository, IStepRepository
     }
     public async Task<Step> FindByIdAsync(int stepId)
     {
-        return await _context.Steps.Include(p=>p.Recipe).FirstOrDefaultAsync(p=>p.Id == stepId);
+        return await _context.Steps
+            .Include(p=>p.Recipe)
+            .FirstOrDefaultAsync(p=>p.Id == stepId);
     }
-    public async Task<IEnumerable<Step>> FindByRecipeIdAsync(int recipeId)
+    public async Task<Step> FindByDescriptionAsync(string description)
     {
-        return await _context.Steps.Where(s => s.RecipeId == recipeId).Include(p=>p.Recipe).ToListAsync();
+        return await _context.Steps
+            .Include(p => p.Recipe)
+            .FirstOrDefaultAsync(i => i.Description == description);
+    }
+    public async Task<IEnumerable<Step>> FindByRecipeIdAsync(int id)
+    {
+        return await _context.Steps
+            .Where(s => s.RecipeId == id)
+            .Include(p=>p.Recipe)
+            .ToListAsync();
     }
     public void Update(Step step)
     {
