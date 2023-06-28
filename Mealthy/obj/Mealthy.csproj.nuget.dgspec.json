@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lol\\Documents\\CICLO 2023-1\\APLICACIONES WEB - PRESENCIAL\\ba\\MealthyBackend\\Mealthy\\Mealthy.csproj": {}
+    "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lol\\Documents\\CICLO 2023-1\\APLICACIONES WEB - PRESENCIAL\\ba\\MealthyBackend\\Mealthy\\Mealthy.csproj": {
+    "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lol\\Documents\\CICLO 2023-1\\APLICACIONES WEB - PRESENCIAL\\ba\\MealthyBackend\\Mealthy\\Mealthy.csproj",
+        "projectUniqueName": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj",
         "projectName": "Mealthy",
-        "projectPath": "C:\\Users\\Lol\\Documents\\CICLO 2023-1\\APLICACIONES WEB - PRESENCIAL\\ba\\MealthyBackend\\Mealthy\\Mealthy.csproj",
-        "packagesPath": "C:\\Users\\Lol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lol\\Documents\\CICLO 2023-1\\APLICACIONES WEB - PRESENCIAL\\ba\\MealthyBackend\\Mealthy\\obj\\",
+        "projectPath": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj",
+        "packagesPath": "C:\\Users\\JULIO.LAPTOP-KE144AIM\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JULIO.LAPTOP-KE144AIM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -12,5 +12,7 @@ public class ModelToResourceProfile : Profile
         CreateMap<Ingredient, IngredientResource>();
         CreateMap<Step, StepResource>();
         CreateMap<Supply, SupplyResource>();
+        CreateMap<Product, ProductResource>();
+        CreateMap<Market, MarketResource>();
     }
 }

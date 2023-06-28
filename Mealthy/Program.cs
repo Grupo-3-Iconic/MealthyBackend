@@ -44,6 +44,8 @@ builder.Services.AddScoped<IStepRepository, StepRepository>();
 builder.Services.AddScoped<IStepService, StepService>();
 builder.Services.AddScoped<ISupplyRepository, SupplyRepository>();
 builder.Services.AddScoped<ISupplyService, SupplyService>();
+builder.Services.AddScoped<IMarketService, MarketService>();
+builder.Services.AddScoped<IMarketRepository, MarketRepository>();
 //AppSettings Configuration
 builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
 // Add lowercase routes
