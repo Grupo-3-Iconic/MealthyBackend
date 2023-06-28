@@ -1,6 +1,6 @@
 ﻿namespace Mealthy.Mealthy.Resources;
 
-public class IngredientResource
+public class SupplyResource
 {
     public int Id { get; set; }
     public string Name { get; set; }
