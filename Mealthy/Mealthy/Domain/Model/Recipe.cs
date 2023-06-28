@@ -7,6 +7,7 @@ public class Recipe
     public string Description { get; set; }
     public string PreparationTime { get; set; }
     public int Servings { get; set; }
+    public string PhotoUrl { get; set; }
     //Relationships
     public IList<Ingredient> Ingredients { get; set; } = new List<Ingredient>();
     public IList<Step> Steps { get; set; } = new List<Step>();

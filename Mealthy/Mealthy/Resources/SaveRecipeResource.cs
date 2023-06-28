@@ -13,6 +13,8 @@ public class SaveRecipeResource
     [Required(ErrorMessage = "El tiempo de preparación es requerido.")]
     [MaxLength(10)]
     public string PreparationTime { get; set; }
+    [Required(ErrorMessage = "La foto es requerida.")]
+    public string PhotoUrl { get; set; }
     [Required(ErrorMessage = "El número de porciones es requerido.")]
     [Range(1, int.MaxValue, ErrorMessage = "El número de porciones debe ser mayor a cero.")]
     public int Servings { get; set; }

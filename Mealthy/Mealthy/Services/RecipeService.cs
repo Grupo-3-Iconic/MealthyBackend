@@ -49,6 +49,7 @@ public class RecipeService : IRecipeService
         existingRecipe.Description = recipe.Description;
         existingRecipe.PreparationTime = recipe.PreparationTime;
         existingRecipe.Servings = recipe.Servings;
+        existingRecipe.PhotoUrl = recipe.PhotoUrl;
         
         try {
             _recipeRepository.Update(existingRecipe);
