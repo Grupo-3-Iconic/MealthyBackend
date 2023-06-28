@@ -23,25 +23,33 @@ public class RecipeService : IRecipeService
 
     public async Task<RecipeResponse> SaveAsync(Recipe recipe)
     {
-        try {
+        try
+        {
+            var existingRecipe = await _recipeRepository.FindByTitleAsync(recipe.Title);
+            if (existingRecipe != null)
+            {
+                return new RecipeResponse("Ya existe una receta con el mismo nombre.");
+            }
+
             await _recipeRepository.AddAsync(recipe);
             await _unitOfWork.CompleteAsync();
             return new RecipeResponse(recipe);
         }
-        catch (Exception ex) {
-            return new RecipeResponse($"An error occurred while saving the Recipe: {ex.Message}");
+        catch (Exception ex)
+        {
+            return new RecipeResponse($"Ocurrió un error al guardar la receta: {ex.Message}");
         }
     }
-    
     public async Task<RecipeResponse> UpdateAsync(int id, Recipe recipe)
     {
         var existingRecipe = await _recipeRepository.FindByIdAsync(id);
-        
         if (existingRecipe == null)
-            return new RecipeResponse("Recipe not found.");
+            return new RecipeResponse("Receta no encontrada.");
         
-        existingRecipe.Title = recipe.Title;
         existingRecipe.Description = recipe.Description;
+        existingRecipe.PreparationTime = recipe.PreparationTime;
+        existingRecipe.Servings = recipe.Servings;
+        existingRecipe.PhotoUrl = recipe.PhotoUrl;
         
         try {
             _recipeRepository.Update(existingRecipe);
@@ -52,13 +60,12 @@ public class RecipeService : IRecipeService
             return new RecipeResponse($"An error occurred while updating the Recipe: {ex.Message}");
         }
     }
-    public async Task<RecipeResponse> DeleteAsync(int id)
+    public async Task<RecipeResponse> DeleteAsync(int recipeId)
     {
-        var existingRecipe = await _recipeRepository.FindByIdAsync(id);
-        
+        var existingRecipe = await _recipeRepository.FindByIdAsync(recipeId);
         if (existingRecipe == null)
             return new RecipeResponse("Recipe not found.");
-        
+
         try {
             _recipeRepository.Remove(existingRecipe);
             await _unitOfWork.CompleteAsync();

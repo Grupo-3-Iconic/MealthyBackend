@@ -24,7 +24,10 @@ public class RecipeRepository : BaseRepository, IRecipeRepository
     {
         return await _context.Recipes.FindAsync(id);
     }
-
+    public async Task<Recipe> FindByTitleAsync(string title)
+    {
+        return await _context.Recipes.FirstOrDefaultAsync(r => r.Title == title);
+    }
     public void Update(Recipe recipe)
     {
         _context.Recipes.Update(recipe);

@@ -18,11 +18,11 @@ public class IngredientRepository : BaseRepository, IIngredientRepository
     {
         await _context.Ingredients.AddAsync(ingredient);
     }
-    public async Task<Ingredient> FindByIdAsync(int ingredientId)
+    public async Task<Ingredient> FindByIdAsync(int id)
     {
         return await _context.Ingredients
             .Include(p=>p.Recipe)
-            .FirstOrDefaultAsync(i => i.Id == ingredientId);
+            .FirstOrDefaultAsync(i => i.Id == id);
     }
     public async Task<Ingredient> FindByNameAsync(string name)
     {
@@ -30,10 +30,10 @@ public class IngredientRepository : BaseRepository, IIngredientRepository
             .Include(p=>p.Recipe)
             .FirstOrDefaultAsync(i => i.Name == name);
     }
-    public async Task<IEnumerable<Ingredient>> FindByRecipeIdAsync(int recipeId)
+    public async Task<IEnumerable<Ingredient>> FindByRecipeIdAsync(int id)
     {
         return await _context.Ingredients
-            .Where(i => i.RecipeId == recipeId)
+            .Where(i => i.RecipeId == id)
             .Include(p=>p.Recipe)
             .ToListAsync();
     }

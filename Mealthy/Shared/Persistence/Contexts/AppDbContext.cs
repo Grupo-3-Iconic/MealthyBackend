@@ -13,6 +13,7 @@ public class AppDbContext : DbContext
     public DbSet<Ingredient> Ingredients { get; set; }
     public DbSet<Step> Steps { get; set; }
     public DbSet<Recipe> Recipes { get; set; }
+    public DbSet<Supply> Supplies { get; set; }
 
     public DbSet<User> users { get; set; }
 
@@ -25,6 +26,15 @@ public class AppDbContext : DbContext
         builder.Entity<Recipe>().Property(p => p.Title).IsRequired().HasMaxLength(30);
         builder.Entity<Recipe>().Property(p => p.Description).IsRequired().HasMaxLength(100);
         builder.Entity<Recipe>().Property(p => p.PreparationTime).IsRequired();
+        builder.Entity<Recipe>().Property(p => p.Servings).IsRequired();
+        builder.Entity<Recipe>().Property(p => p.PhotoUrl).IsRequired();
+        
+        builder.Entity<Supply>().ToTable("Supplies");
+        builder.Entity<Supply>().HasKey(p => p.Id);
+        builder.Entity<Supply>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
+        builder.Entity<Supply>().Property(p => p.Name).IsRequired().HasMaxLength(30);
+        builder.Entity<Supply>().Property(p => p.Unit).IsRequired().HasMaxLength(10);
+        builder.Entity<Supply>().Property(p => p.Quantity).IsRequired();
         
         //Relationships
         builder.Entity<Recipe>().HasMany(p => p.Ingredients).WithOne(p => p.Recipe).HasForeignKey(p => p.RecipeId);
@@ -34,6 +44,7 @@ public class AppDbContext : DbContext
         builder.Entity<Ingredient>().HasKey(p => p.Id);
         builder.Entity<Ingredient>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
         builder.Entity<Ingredient>().Property(p => p.Name).IsRequired().HasMaxLength(30);
+        builder.Entity<Ingredient>().Property(p => p.Unit).IsRequired().HasMaxLength(10);
         builder.Entity<Ingredient>().Property(p => p.Quantity).IsRequired();
         
         builder.Entity<Step>().ToTable("Steps");
@@ -54,12 +65,6 @@ public class AppDbContext : DbContext
         builder.Entity<User>().Property(p=>p.Phone).IsRequired();
         builder.Entity<User>().Property(p=>p.Role).IsRequired();
         
-    
-
-
-
-
-
         //Naming convention
         builder.UseSnakeCaseNamingConvention();
     }
