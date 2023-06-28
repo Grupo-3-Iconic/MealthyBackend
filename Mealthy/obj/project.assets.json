@@ -7276,26 +7276,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JULIO.LAPTOP-KE144AIM\\.nuget\\packages\\": {}
+    "C:\\Users\\Vega\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj",
+      "projectUniqueName": "C:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\Mealthy.csproj",
       "projectName": "Mealthy",
-      "projectPath": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj",
-      "packagesPath": "C:\\Users\\JULIO.LAPTOP-KE144AIM\\.nuget\\packages\\",
-      "outputPath": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\obj\\",
+      "projectPath": "C:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\Mealthy.csproj",
+      "packagesPath": "C:\\Users\\Vega\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JULIO.LAPTOP-KE144AIM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Vega\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7386,7 +7385,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

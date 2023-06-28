@@ -6,8 +6,10 @@ public class RegisterRequest
 {
     [Required] public string FirstName {get; set; }
     [Required] public string LastName { get; set; }
-    [Required] public string Genre { get; set; }
-    [Required] public string Birthday { get; set; }
+    public string Genre { get; set; }
+    public string Birthday { get; set; }
+    public string RUC { get; set; }
+    public int storeId {get; set; }
     [Required] public string Email { get; set; }
     [Required] public string Phone { get; set; }
     [Required] public string Role { get; set; }

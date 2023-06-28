@@ -59,11 +59,13 @@ public class AppDbContext : DbContext
         builder.Entity<User>().Property(p=>p.Username).IsRequired().HasMaxLength(30);
         builder.Entity<User>().Property(p=>p.FirstName).IsRequired();
         builder.Entity<User>().Property(p=>p.LastName).IsRequired();
-        builder.Entity<User>().Property(p=>p.Genre).IsRequired();
-        builder.Entity<User>().Property(p=>p.Birthday).IsRequired();
+        builder.Entity<User>().Property(p=>p.Genre);
+        builder.Entity<User>().Property(p=>p.Birthday);
         builder.Entity<User>().Property(p=>p.Email).IsRequired();
         builder.Entity<User>().Property(p=>p.Phone).IsRequired();
         builder.Entity<User>().Property(p=>p.Role).IsRequired();
+        builder.Entity<User>().Property(p => p.RUC);
+        builder.Entity<User>().Property(p => p.storeId);
         
         //Products
         base.OnModelCreating(builder);

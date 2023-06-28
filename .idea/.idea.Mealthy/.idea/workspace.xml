@@ -9,31 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f26acf06-7f2b-46d3-b06f-280d0737a1fe" name="Changes" comment="Program impl">
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Controllers/MarketController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Model/Market.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Repository/IMarketRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/Communication/MarketResponse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/IMarketService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Persistence/Repositories/MarketRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/MarketResource.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Resources/SaveMarketResource.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Services/MarketService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Mapping/ModelToResourceProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Mapping/ModelToResourceProfile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/delete.text" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="f26acf06-7f2b-46d3-b06f-280d0737a1fe" name="Changes" comment="Program impl" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,9 +45,9 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\JULIO.LAPTOP-KE144AIM\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\JULIO.LAPTOP-KE144AIM\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\JULIO.LAPTOP-KE144AIM\\AppData\\Local\\Symbols\\src"
+      "C:\\Users\\Vega\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Vega\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Vega\\AppData\\Local\\Symbols\\src"
     ]
   }
 }]]></component>
@@ -139,6 +115,7 @@
       <workItem from="1687935606514" duration="1099000" />
       <workItem from="1687938341915" duration="895000" />
       <workItem from="1687940145432" duration="358000" />
+      <workItem from="1687943427004" duration="1026000" />
     </task>
     <task id="LOCAL-00001" summary="Default files">
       <created>1686374705157</created>
