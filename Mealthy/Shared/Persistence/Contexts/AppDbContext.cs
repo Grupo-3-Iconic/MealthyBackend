@@ -1,4 +1,4 @@
-﻿using Mealthy.Mealthy.Domain.Model;
+using Mealthy.Mealthy.Domain.Model;
 using Mealthy.Mealthy.Shared.Extensions;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,7 +12,8 @@ public class AppDbContext : DbContext
     public DbSet<Ingredient> Ingredients { get; set; }
     public DbSet<Step> Steps { get; set; }
     public DbSet<Recipe> Recipes { get; set; }
-    
+    public DbSet<Supply> Supplies { get; set; }
+
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);
@@ -22,6 +23,15 @@ public class AppDbContext : DbContext
         builder.Entity<Recipe>().Property(p => p.Title).IsRequired().HasMaxLength(30);
         builder.Entity<Recipe>().Property(p => p.Description).IsRequired().HasMaxLength(100);
         builder.Entity<Recipe>().Property(p => p.PreparationTime).IsRequired();
+        builder.Entity<Recipe>().Property(p => p.Servings).IsRequired();
+        builder.Entity<Recipe>().Property(p => p.PhotoUrl).IsRequired();
+        
+        builder.Entity<Supply>().ToTable("Supplies");
+        builder.Entity<Supply>().HasKey(p => p.Id);
+        builder.Entity<Supply>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
+        builder.Entity<Supply>().Property(p => p.Name).IsRequired().HasMaxLength(30);
+        builder.Entity<Supply>().Property(p => p.Unit).IsRequired().HasMaxLength(10);
+        builder.Entity<Supply>().Property(p => p.Quantity).IsRequired();
         
         //Relationships
         builder.Entity<Recipe>().HasMany(p => p.Ingredients).WithOne(p => p.Recipe).HasForeignKey(p => p.RecipeId);
@@ -31,13 +41,14 @@ public class AppDbContext : DbContext
         builder.Entity<Ingredient>().HasKey(p => p.Id);
         builder.Entity<Ingredient>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
         builder.Entity<Ingredient>().Property(p => p.Name).IsRequired().HasMaxLength(30);
+        builder.Entity<Ingredient>().Property(p => p.Unit).IsRequired().HasMaxLength(10);
         builder.Entity<Ingredient>().Property(p => p.Quantity).IsRequired();
         
         builder.Entity<Step>().ToTable("Steps");
         builder.Entity<Step>().HasKey(p => p.Id);
         builder.Entity<Step>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
         builder.Entity<Step>().Property(p => p.Description).IsRequired().HasMaxLength(100);
-        
+
         //Naming convention
         builder.UseSnakeCaseNamingConvention();
     }
