@@ -1,7 +1,7 @@
 using Mealthy.Mealthy.Persistence.Repositories;
 using Mealthy.Mealthy.Domain.Repository;
 using Mealthy.Mealthy.Domain.Service;
-using Mealthy.Mealthy.Mapping;
+using Mealthy.Mealthy.Services;
 using Mealthy.Security.Authorization.Handlers.Implementations;
 using Mealthy.Security.Authorization.Handlers.Interfaces;
 using Mealthy.Security.Authorization.Middleware;
