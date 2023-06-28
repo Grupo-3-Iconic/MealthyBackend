@@ -12,5 +12,6 @@ public class ResourceToModelProfile : Profile
         CreateMap<SaveStepResource, Step>();
         CreateMap<SaveRecipeResource, Recipe>();
         CreateMap<SaveSupplyResource, Supply>();
+        CreateMap<SaveMarketResource, Market>();
     }
 }

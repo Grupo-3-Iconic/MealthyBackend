@@ -14,7 +14,7 @@ public class AppDbContext : DbContext
     public DbSet<Step> Steps { get; set; }
     public DbSet<Recipe> Recipes { get; set; }
     public DbSet<Supply> Supplies { get; set; }
-
+    public DbSet<Market> Markets { get; set; }
     public DbSet<User> users { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
@@ -35,6 +35,21 @@ public class AppDbContext : DbContext
         builder.Entity<Supply>().Property(p => p.Name).IsRequired().HasMaxLength(30);
         builder.Entity<Supply>().Property(p => p.Unit).IsRequired().HasMaxLength(10);
         builder.Entity<Supply>().Property(p => p.Quantity).IsRequired();
+
+        builder.Entity<Market>().ToTable("Markets");
+        builder.Entity<Market>().HasKey(p => p.Id);
+        builder.Entity<Market>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
+        builder.Entity<Market>().Property(p => p.storeName).IsRequired().HasMaxLength(50);
+        builder.Entity<Market>().Property(p => p.description).IsRequired().HasMaxLength(200);
+        builder.Entity<Market>().Property(p => p.firstName).IsRequired().HasMaxLength(75);
+        builder.Entity<Market>().Property(p => p.lastName).IsRequired().HasMaxLength(75);
+        builder.Entity<Market>().Property(p => p.ruc).IsRequired().HasMaxLength(11);
+        builder.Entity<Market>().Property(p => p.email).IsRequired().HasMaxLength(50);
+        builder.Entity<Market>().Property(p => p.password).IsRequired().HasMaxLength(45);
+        builder.Entity<Market>().Property(p => p.location).IsRequired().HasMaxLength(75);
+        builder.Entity<Market>().Property(p => p.phone).IsRequired().HasMaxLength(9);
+        builder.Entity<Market>().Property(p => p.photo).IsRequired().HasMaxLength(600);
+
         
         //Relationships
         builder.Entity<Recipe>().HasMany(p => p.Ingredients).WithOne(p => p.Recipe).HasForeignKey(p => p.RecipeId);
