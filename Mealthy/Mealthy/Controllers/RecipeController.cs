@@ -26,6 +26,17 @@ public class RecipeController : ControllerBase
         var resources = _mapper.Map<IEnumerable<Recipe>, IEnumerable<RecipeResource>>(recipes);
         return resources;
     }
+    
+    //GET api/v1/recipe/{id}
+    [HttpGet("{id}")]
+    public async Task<IActionResult> GetAsync(int id)
+    {
+        var result = await _recipeService.GetByIdAsync(id);
+        if (!result.Success)
+            return BadRequest(result.Message);
+        var recipeResource = _mapper.Map<Recipe, RecipeResource>(result.Resource);
+        return Ok(recipeResource);
+    }
 
     //POST api/v1/recipe
     [HttpPost]

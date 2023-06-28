@@ -9,4 +9,5 @@ public interface IRecipeService
     Task<RecipeResponse> SaveAsync(Recipe recipe);
     Task<RecipeResponse> UpdateAsync(int id, Recipe recipe);
     Task<RecipeResponse> DeleteAsync(int id);
+    Task<RecipeResponse> GetByIdAsync(int id);
 }

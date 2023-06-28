@@ -15,12 +15,10 @@ public class RecipeService : IRecipeService
         _recipeRepository = recipeRepository;
         _unitOfWork = unitOfWork;
     }
-    
     public async Task<IEnumerable<Recipe>> ListAsync()
     {
         return await _recipeRepository.ListAsync();
     }
-
     public async Task<RecipeResponse> SaveAsync(Recipe recipe)
     {
         try
@@ -40,6 +38,12 @@ public class RecipeService : IRecipeService
             return new RecipeResponse($"Ocurrió un error al guardar la receta: {ex.Message}");
         }
     }
+    public async Task<RecipeResponse> GetByIdAsync(int id)
+    {
+        var recipe = await _recipeRepository.FindByIdAsync(id);
+        return recipe == null ? new RecipeResponse("Receta no encontrada.") : new RecipeResponse(recipe);
+    }
+
     public async Task<RecipeResponse> UpdateAsync(int id, Recipe recipe)
     {
         var existingRecipe = await _recipeRepository.FindByIdAsync(id);
