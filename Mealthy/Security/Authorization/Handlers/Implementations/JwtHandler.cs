@@ -44,9 +44,12 @@ public class JwtHandler :IJwtHandler
     {
         if (token == null)
             return null;
+
         var tokenHandler = new JwtSecurityTokenHandler();
         var key = Encoding.ASCII.GetBytes(_appSettings.Secret);
-        //Execute token validation
+
+        // Execute Token validation
+
         try
         {
             tokenHandler.ValidateToken(token, new TokenValidationParameters
@@ -55,11 +58,14 @@ public class JwtHandler :IJwtHandler
                 IssuerSigningKey = new SymmetricSecurityKey(key),
                 ValidateIssuer = false,
                 ValidateAudience = false,
-                //expiration with no delay
+                // Expiration with no delay
                 ClockSkew = TimeSpan.Zero
             }, out SecurityToken validatedToken);
+
             var jwtToken = (JwtSecurityToken)validatedToken;
-            var userId = int.Parse(jwtToken.Claims.First(claim => claim.Type == "id").Value);
+            var userId = int.Parse(jwtToken.Claims.First(
+                claim => claim.Type == "id").Value);
+
             return userId;
         }
         catch (Exception e)

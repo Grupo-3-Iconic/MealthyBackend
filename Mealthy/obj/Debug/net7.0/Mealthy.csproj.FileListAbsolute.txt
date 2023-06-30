@@ -1,278 +1,350 @@
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\appsettings.Development.json
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\appsettings.json
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Mealthy.exe
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Mealthy.deps.json
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Mealthy.runtimeconfig.json
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Mealthy.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Mealthy.pdb
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.csproj.AssemblyReference.cache
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.GeneratedMSBuildEditorConfig.editorconfig
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.AssemblyInfoInputs.cache
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.AssemblyInfo.cs
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.csproj.CoreCompileInputs.cache
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.MvcApplicationPartsAssemblyInfo.cs
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.MvcApplicationPartsAssemblyInfo.cache
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.Mealthy.Microsoft.AspNetCore.StaticWebAssets.props
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.build.Mealthy.props
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Mealthy.props
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Mealthy.props
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\staticwebassets.pack.json
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\staticwebassets.build.json
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\staticwebassets.development.json
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\scopedcss\bundle\Mealthy.styles.css
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.csproj.CopyComplete
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\refint\Mealthy.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.pdb
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\Mealthy.genruntimeconfig.cache
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\obj\Debug\net7.0\ref\Mealthy.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\AutoMapper.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Google.Protobuf.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\K4os.Compression.LZ4.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\K4os.Hash.xxHash.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\MySql.Data.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\BouncyCastle.Crypto.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\UNIVERSIDAD\VI  CICLO\Aplicaciones Web\Code\Code - Backend\Mealthy\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\appsettings.json
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.exe
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.deps.json
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.runtimeconfig.json
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.pdb
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\AutoMapper.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\BCrypt.Net-Next.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Google.Protobuf.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\K4os.Compression.LZ4.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\K4os.Hash.xxHash.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\MySql.Data.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\BouncyCastle.Crypto.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.csproj.AssemblyReference.cache
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.AssemblyInfoInputs.cache
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.AssemblyInfo.cs
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.csproj.CoreCompileInputs.cache
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.Mealthy.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.build.Mealthy.props
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Mealthy.props
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Mealthy.props
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\scopedcss\bundle\Mealthy.styles.css
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.csproj.CopyComplete
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\refint\Mealthy.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.pdb
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.genruntimeconfig.cache
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\obj\Debug\net7.0\ref\Mealthy.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Vega\Documents\GitHub\MealthyBackend\Mealthy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\appsettings.json
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.exe
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.deps.json
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.runtimeconfig.json
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.pdb
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\AutoMapper.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\BCrypt.Net-Next.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Google.Protobuf.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\K4os.Compression.LZ4.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\K4os.Hash.xxHash.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\MySql.Data.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\BouncyCastle.Crypto.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.csproj.AssemblyReference.cache
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.AssemblyInfoInputs.cache
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.AssemblyInfo.cs
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.csproj.CoreCompileInputs.cache
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.Mealthy.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.build.Mealthy.props
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Mealthy.props
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Mealthy.props
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\scopedcss\bundle\Mealthy.styles.css
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.csproj.CopyComplete
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\refint\Mealthy.dll
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.pdb
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.genruntimeconfig.cache
-C:\Users\Lol\Documents\CICLO 2023-1\APLICACIONES WEB - PRESENCIAL\ba\MealthyBackend\Mealthy\obj\Debug\net7.0\ref\Mealthy.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\appsettings.Development.json
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\appsettings.json
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.exe
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.deps.json
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.runtimeconfig.json
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Mealthy.pdb
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\AutoMapper.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\BCrypt.Net-Next.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Google.Protobuf.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\K4os.Compression.LZ4.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\K4os.Hash.xxHash.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\MySql.Data.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\BouncyCastle.Crypto.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.csproj.AssemblyReference.cache
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.GeneratedMSBuildEditorConfig.editorconfig
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.AssemblyInfoInputs.cache
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.AssemblyInfo.cs
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.csproj.CoreCompileInputs.cache
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.MvcApplicationPartsAssemblyInfo.cs
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.MvcApplicationPartsAssemblyInfo.cache
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.Mealthy.Microsoft.AspNetCore.StaticWebAssets.props
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.build.Mealthy.props
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Mealthy.props
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Mealthy.props
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets.pack.json
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets.build.json
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\staticwebassets.development.json
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\scopedcss\bundle\Mealthy.styles.css
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.csproj.CopyComplete
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\refint\Mealthy.dll
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.pdb
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\Mealthy.genruntimeconfig.cache
-D:\PROYECTOS JETBRAINS\LANDING PAGE ICONIC\MealthyBackend\Mealthy\obj\Debug\net7.0\ref\Mealthy.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/appsettings.Development.json
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/appsettings.json
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Mealthy.exe
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Mealthy.deps.json
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Mealthy.runtimeconfig.json
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Mealthy.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Mealthy.pdb
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.GeneratedMSBuildEditorConfig.editorconfig
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfoInputs.cache
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfo.cs
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cs
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cache
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.Mealthy.Microsoft.AspNetCore.StaticWebAssets.props
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.build.Mealthy.props
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mealthy.props
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mealthy.props
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/staticwebassets.pack.json
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/staticwebassets.build.json
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/staticwebassets.development.json
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/scopedcss/bundle/Mealthy.styles.css
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CopyComplete
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.pdb
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/Mealthy.genruntimeconfig.cache
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/AutoMapper.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Google.Protobuf.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/MySql.Data.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/UNIVERSIDAD/VI  CICLO/Aplicaciones Web/Code/Code - Backend/Mealthy/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/appsettings.json
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.exe
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.deps.json
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.runtimeconfig.json
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.pdb
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/BCrypt.Net-Next.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Google.Protobuf.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/MySql.Data.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfoInputs.cache
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfo.cs
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.Mealthy.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.build.Mealthy.props
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mealthy.props
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mealthy.props
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/scopedcss/bundle/Mealthy.styles.css
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CopyComplete
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.pdb
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.genruntimeconfig.cache
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/appsettings.json
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.exe
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.deps.json
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.runtimeconfig.json
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.pdb
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/BCrypt.Net-Next.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Google.Protobuf.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/MySql.Data.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfoInputs.cache
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfo.cs
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.Mealthy.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.build.Mealthy.props
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mealthy.props
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mealthy.props
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/scopedcss/bundle/Mealthy.styles.css
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CopyComplete
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.pdb
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.genruntimeconfig.cache
+C:/Users/Lol/Documents/CICLO 2023-1/APLICACIONES WEB - PRESENCIAL/ba/MealthyBackend/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/appsettings.Development.json
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/appsettings.json
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.exe
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.deps.json
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.runtimeconfig.json
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.pdb
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/AutoMapper.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/BCrypt.Net-Next.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Google.Protobuf.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/MySql.Data.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Annotations.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.GeneratedMSBuildEditorConfig.editorconfig
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfoInputs.cache
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfo.cs
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cs
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cache
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.Mealthy.Microsoft.AspNetCore.StaticWebAssets.props
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.build.Mealthy.props
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mealthy.props
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mealthy.props
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.pack.json
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.build.json
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.development.json
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/scopedcss/bundle/Mealthy.styles.css
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CopyComplete
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.pdb
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.genruntimeconfig.cache
+D:/PROYECTOS JETBRAINS/LANDING PAGE ICONIC/MealthyBackend/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/appsettings.Development.json
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/appsettings.json
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.deps.json
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.runtimeconfig.json
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Mealthy.pdb
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/AutoMapper.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/MySql.Data.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Annotations.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfoInputs.cache
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.AssemblyInfo.cs
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cs
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.MvcApplicationPartsAssemblyInfo.cache
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.Mealthy.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.build.Mealthy.props
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mealthy.props
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mealthy.props
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.build.json
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/staticwebassets.development.json
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/scopedcss/bundle/Mealthy.styles.css
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CopyComplete
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.pdb
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/Mealthy.genruntimeconfig.cache
+/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll

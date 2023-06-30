@@ -63,7 +63,7 @@ public class UserService : IUserservice
         // authentication successful
         var response = _mapper.Map<AuthenticateResponse>(user);
         Console.WriteLine($"Response: {response.Id},{response.LastName}" +
-                          $",{response.Email},{response.Username},{response.FirstName}{response.Genre}" +
+                          $",{response.RUC},{response.RUC},{response.storeId},{response.Username},{response.FirstName}{response.Genre}" +
                           $",{response.Email},{response.Phone},{response.Role},{response.Birthday}");
         
         response.Token = _jwtHandler.GenerateToken(user);

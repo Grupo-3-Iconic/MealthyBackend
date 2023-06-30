@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\Mealthy.csproj": {}
+    "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/Mealthy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\Mealthy.csproj": {
+    "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/Mealthy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\Mealthy.csproj",
+        "projectUniqueName": "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/Mealthy.csproj",
         "projectName": "Mealthy",
-        "projectPath": "C:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\Mealthy.csproj",
-        "packagesPath": "C:\\Users\\Vega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vega\\Documents\\GitHub\\MealthyBackend\\Mealthy\\obj\\",
+        "projectPath": "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/Mealthy.csproj",
+        "packagesPath": "/Users/vega/.nuget/packages/",
+        "outputPath": "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vega\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/vega/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "/Users/vega/.dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -111,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/vega/.dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
         }
       }
     }
