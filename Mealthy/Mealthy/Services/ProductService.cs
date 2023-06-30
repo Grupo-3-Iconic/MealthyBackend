@@ -1,4 +1,5 @@
-﻿using Mealthy.Mealthy.Domain.Model;
+﻿using System.Collections;
+using Mealthy.Mealthy.Domain.Model;
 using Mealthy.Mealthy.Domain.Repository;
 using Mealthy.Mealthy.Domain.Service;
 using Mealthy.Mealthy.Domain.Service.Communication;
@@ -15,7 +16,12 @@ public class ProductService:IProductService
         _productRepository = productRepository;
         _unitOfWork = unitOfWork;
     }
-    
+
+    public async Task<IEnumerable<Product>> GetByStoreId(int id)
+    {
+        return await _productRepository.FindByStoreIdAsync(id);
+
+    }
     public async Task<IEnumerable<Product>> ListAsync()
     {
         return await _productRepository.ListAsync();
@@ -36,6 +42,14 @@ public class ProductService:IProductService
         }
         
         
+    }
+
+    public async Task<ProductResponse> GetByIdAsync(int id)
+    {
+        var product = await _productRepository.FindByIdAsync(id);
+        if (product == null)
+            return new ProductResponse("Product dosnt exist");
+        return new ProductResponse(product);
     }
 
     public async Task<ProductResponse> UpdateAsync(int id, Product product)

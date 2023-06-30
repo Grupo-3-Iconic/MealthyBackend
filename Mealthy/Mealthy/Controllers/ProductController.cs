@@ -1,4 +1,5 @@
-﻿using AutoMapper;
+﻿using System.Collections;
+using AutoMapper;
 using Mealthy.Mealthy.Domain.Model;
 using Mealthy.Mealthy.Domain.Service;
 using Mealthy.Mealthy.Resources;
@@ -42,7 +43,23 @@ public class ProductController:ControllerBase
         var supplyResource = _mapper.Map<Product, ProductResource>(result.Resource);
         return Ok(supplyResource);
     }
-    
+
+    [HttpGet("store/{id}")]
+    public async Task<IEnumerable<ProductResource>> GetProductById(int id)
+    {
+        var products = await _productService.GetByStoreId(id);
+        var resources = _mapper.Map<IEnumerable<Product>, IEnumerable<ProductResource>>(products);
+        return resources.ToList();
+    }
+    [HttpGet("{id}")]
+    public async Task<IActionResult> GetAsync(int id)
+    {
+        var result = await _productService.GetByIdAsync(id);
+        if (!result.Success)
+            return BadRequest(result.Message);
+        var productResource =_mapper.Map<Product,ProductResource>(result.Resource);
+        return Ok(productResource);
+    }
     [HttpPut("{id}")]
     public async Task<IActionResult> PutAsync(int id, [FromBody] SaveProductResource resource)
     {

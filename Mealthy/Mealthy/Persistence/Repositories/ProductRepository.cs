@@ -25,9 +25,14 @@ public class ProductRepository:BaseRepository, IProductRepository
     {
         await _context.Products.AddAsync(product);
     }
-    public async Task<Product> FindByIdAsync(int productId)
+    public  async Task<IEnumerable<Product>> FindByStoreIdAsync(int id)
     {
-        return await _context.Products.FindAsync(productId);
+        return await  _context.Products.Where(p => p.storeId == id).ToListAsync();
+    }
+
+    public Task<Product> FindByIdAsync(int id)
+    {
+        return _context.Products.FirstOrDefaultAsync(p => p.Id == id);
     }
 
     public Task<Product> FindByNameAsync(string name)

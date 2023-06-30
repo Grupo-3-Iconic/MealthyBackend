@@ -3,7 +3,7 @@ using Mealthy.Security.Domain.Models;
 using Mealthy.Security.Domain.Services;
 using Mealthy.Security.Domain.Services.Communication;
 using Mealthy.Security.Resources;
-using Microsoft.AspNetCore.Authorization;
+using Mealthy.Security.Authorization.Attributes;
 using Microsoft.AspNetCore.Mvc;
 
 
