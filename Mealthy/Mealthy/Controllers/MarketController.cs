@@ -4,6 +4,7 @@ using Mealthy.Mealthy.Domain.Model;
 using Mealthy.Mealthy.Domain.Service;
 using Mealthy.Mealthy.Resources;
 using Mealthy.Mealthy.Shared.Extensions;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Mealthy.Mealthy.Controllers;
@@ -51,7 +52,16 @@ public class MarketController : ControllerBase
 
         return Created(nameof(PostAsync), marketResource);
     }
-    
+
+    [HttpGet("{id}")]
+    public async Task<IActionResult> GetMarketById(int id)
+    {
+        var result = await _marketService.GetById(id);
+        if (!result.Success)
+            return BadRequest(result.Message);
+        var marketResource = _mapper.Map<Market, MarketResource>(result.Resource);
+        return Ok(marketResource);
+    }
     [HttpPut("{id}")]
     public async Task<IActionResult> PutAsync(int id, [FromBody] SaveMarketResource resource)
     {

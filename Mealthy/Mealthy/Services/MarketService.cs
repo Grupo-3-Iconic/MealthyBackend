@@ -36,6 +36,11 @@ public class MarketService : IMarketService
         }
     }
 
+    public async Task<MarketResponse> GetById(int id)
+    {
+        var market = await _marketRepository.FindByIdAsync(id);
+        return market == null ? new MarketResponse("Market not found") : new MarketResponse(market);
+    }
     public async Task<MarketResponse> UpdateAsync(int id, Market market)
     {
         var existingMarket = await _marketRepository.FindByIdAsync(id);

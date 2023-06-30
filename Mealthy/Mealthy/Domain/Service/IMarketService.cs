@@ -7,6 +7,7 @@ public interface IMarketService
 {
     Task<IEnumerable<Market>> ListAsync();
     Task<MarketResponse> SaveAsync(Market market);
-    Task<MarketResponse> UpdateAsync(int id, Market market);
+    Task<MarketResponse> GetById(int id);
+     Task<MarketResponse> UpdateAsync(int id, Market market);
     Task<MarketResponse> DeleteAsync(int id);
 }
