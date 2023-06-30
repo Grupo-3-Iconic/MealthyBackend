@@ -10,17 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f26acf06-7f2b-46d3-b06f-280d0737a1fe" name="Changes" comment="Program impl">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mealthy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mealthy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Controllers/MarketController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Controllers/MarketController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/IMarketService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Domain/Service/IMarketService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Mealthy/Services/MarketService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Mealthy/Services/MarketService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mealthy/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
