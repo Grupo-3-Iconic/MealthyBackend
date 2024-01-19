@@ -9,57 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f26acf06-7f2b-46d3-b06f-280d0737a1fe" name="Changes" comment="Program impl">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mealthy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mealthy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Authorization/Attributes/AllowAnonymousAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Authorization/Attributes/AuthorizeAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Authorization/Handlers/Implementations/JwtHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Authorization/Handlers/Interfaces/IJwtHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Authorization/Middleware/ErrorHandlerMiddleware.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Authorization/Middleware/JwtMiddleware.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Authorization/Settings/AppSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Controllers/UserControllers.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Domain/Models/User.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Domain/Repositories/IUseRepository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Domain/Services/Communication/AuthenticateRequest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Domain/Services/Communication/AuthenticateResponse.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Domain/Services/Communication/RegisterRequest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Domain/Services/Communication/UpdateRequest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Domain/Services/IUserService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Exceptions/AppExceptions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Mapping/ModelToResourceProfile.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Mapping/ResourceModelToProfile.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Persistence/Repositories/UserRepository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Resources/UserResource.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Security/Services/UserService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/Shared/Persistence/Contexts/AppDbContext.cs" afterDir="false" />
+    <list default="true" id="f26acf06-7f2b-46d3-b06f-280d0737a1fe" name="Changes" comment="delete auth user">
       <change beforePath="$PROJECT_DIR$/Mealthy/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/Mealthy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/bin/Debug/net7.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/Mealthy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/ref/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/refint/Mealthy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mealthy.props" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mealthy.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mealthy.props" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mealthy.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/Mealthy.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Mealthy/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +131,7 @@
       <workItem from="1687943427004" duration="14881000" />
       <workItem from="1688001923666" duration="17667000" />
       <workItem from="1705618491220" duration="2726000" />
-      <workItem from="1705674107344" duration="594000" />
+      <workItem from="1705674107344" duration="4203000" />
     </task>
     <task id="LOCAL-00001" summary="Default files">
       <created>1686374705157</created>
@@ -301,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1686412465814</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="delete auth user">
+      <option name="closed" value="true" />
+      <created>1705682165093</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705682165093</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +297,7 @@
     <MESSAGE value="Repositories (CRUD ?)" />
     <MESSAGE value="Relocation of files" />
     <MESSAGE value="Program impl" />
-    <option name="LAST_COMMIT_MESSAGE" value="Program impl" />
+    <MESSAGE value="delete auth user" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete auth user" />
   </component>
 </project>
