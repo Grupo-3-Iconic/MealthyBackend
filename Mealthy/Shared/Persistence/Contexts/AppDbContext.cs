@@ -1,6 +1,5 @@
 ﻿using Mealthy.Mealthy.Domain.Model;
 using Mealthy.Mealthy.Shared.Extensions;
-using Mealthy.Security.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Mealthy.Shared.Persistence.Contexts;
@@ -15,7 +14,6 @@ public class AppDbContext : DbContext
     public DbSet<Recipe> Recipes { get; set; }
     public DbSet<Supply> Supplies { get; set; }
     public DbSet<Market> Markets { get; set; }
-    public DbSet<User> users { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
@@ -51,21 +49,6 @@ public class AppDbContext : DbContext
         builder.Entity<Step>().HasKey(p => p.Id);
         builder.Entity<Step>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
         builder.Entity<Step>().Property(p => p.Description).IsRequired().HasMaxLength(100);
-        
-        // Users
-        builder.Entity<User>().ToTable("Users");
-        builder.Entity<User>().HasKey(p=>p.Id);
-        builder.Entity<User>().Property(p=>p.Id).IsRequired().ValueGeneratedOnAdd();
-        builder.Entity<User>().Property(p=>p.Username).IsRequired().HasMaxLength(30);
-        builder.Entity<User>().Property(p=>p.FirstName).IsRequired();
-        builder.Entity<User>().Property(p=>p.LastName).IsRequired();
-        builder.Entity<User>().Property(p=>p.Genre);
-        builder.Entity<User>().Property(p=>p.Birthday);
-        builder.Entity<User>().Property(p=>p.Email).IsRequired();
-        builder.Entity<User>().Property(p=>p.Phone).IsRequired();
-        builder.Entity<User>().Property(p=>p.Role).IsRequired();
-        builder.Entity<User>().Property(p => p.RUC);
-        builder.Entity<User>().Property(p => p.storeId);
         
         //Products
         base.OnModelCreating(builder);

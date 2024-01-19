@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/Mealthy.csproj": {}
+    "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj": {}
   },
   "projects": {
-    "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/Mealthy.csproj": {
+    "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/Mealthy.csproj",
+        "projectUniqueName": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj",
         "projectName": "Mealthy",
-        "projectPath": "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/Mealthy.csproj",
-        "packagesPath": "/Users/vega/.nuget/packages/",
-        "outputPath": "/Users/vega/Documents/GitHub/MealthyBackend/Mealthy/obj/",
+        "projectPath": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\Mealthy.csproj",
+        "packagesPath": "C:\\Users\\JULIO.LAPTOP-KE144AIM\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS JETBRAINS\\LANDING PAGE ICONIC\\MealthyBackend\\Mealthy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vega/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\JULIO.LAPTOP-KE144AIM\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/Users/vega/.dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -111,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/vega/.dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

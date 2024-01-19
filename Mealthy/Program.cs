@@ -2,14 +2,6 @@ using Mealthy.Mealthy.Persistence.Repositories;
 using Mealthy.Mealthy.Domain.Repository;
 using Mealthy.Mealthy.Domain.Service;
 using Mealthy.Mealthy.Services;
-using Mealthy.Security.Authorization.Handlers.Implementations;
-using Mealthy.Security.Authorization.Handlers.Interfaces;
-using Mealthy.Security.Authorization.Middleware;
-using Mealthy.Security.Authorization.Settings;
-using Mealthy.Security.Domain.Repositories;
-using Mealthy.Security.Domain.Services;
-using Mealthy.Security.Persistence.Repositories;
-using Mealthy.Security.Services;
 using Mealthy.Shared.Persistence.Contexts;
 using Mealthy.Shared.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -87,14 +79,9 @@ builder.Services.AddScoped<ISupplyRepository, SupplyRepository>();
 builder.Services.AddScoped<ISupplyService, SupplyService>();
 builder.Services.AddScoped<IMarketService, MarketService>();
 builder.Services.AddScoped<IMarketRepository, MarketRepository>();
-//AppSettings Configuration
-builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
 // Add lowercase routes
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 builder.Services.AddCors();
-builder.Services.AddScoped<IJwtHandler, JwtHandler>();
-builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<IUserservice, UserService>();
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
@@ -104,9 +91,7 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 builder.Services.AddAutoMapper(
     typeof(Mealthy.Mealthy.Mapping.ModelToResourceProfile),
-    typeof(Mealthy.Mealthy.Mapping.ResourceToModelProfile),
-    typeof(Mealthy.Security.Mapping.ModelToResourceProfile),
-    typeof(Mealthy.Security.Mapping.ResourceModelToProfile)
+    typeof(Mealthy.Mealthy.Mapping.ResourceToModelProfile)
 );
 
 var app = builder.Build();
@@ -119,10 +104,6 @@ using (var context = scope.ServiceProvider.GetService<AppDbContext>())
     context.Database.EnsureCreated();
 }
 
-//configure error handler middleware
-app.UseMiddleware<ErrorHandlerMiddleware>();
-//configure JWT Handling
-app.UseMiddleware<JwtMiddleware>();
 //configure CORS
 app.UseCors(x => x
     .AllowAnyOrigin()
